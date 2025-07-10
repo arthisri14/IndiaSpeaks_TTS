@@ -44,8 +44,6 @@ pip install TTS==0.20.0
 
 ### Visualization
 
-![TTS Evaluation](./plots/tts_evaluation.png)
-
 - **Real-time Factor** < 1: ✅ Met
 - **MCD** ~5.0: Comparable to other TTS models
 - **MOS** ~3.7: Acceptable perceptual quality
